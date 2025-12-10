@@ -1,4 +1,5 @@
 🚀 FinBot – Automated Loan Eligibility & Sanction Letter Generator
+
 FinBot is a lightweight, intelligent loan-processing assistant that automates eligibility checks, EMI calculation, and PDF sanction letter generation using Python.
 It includes a web UI (Streamlit) and console interface, backed by a modular core engine.
 
