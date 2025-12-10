@@ -1,0 +1,152 @@
+{
+    "ACC1001": {
+        "name": "Amit Sharma",
+        "preapproved_limit": 200000,
+        "salary": 60000,
+        "credit_score": 750
+    },
+    "ACC1002": {
+        "name": "Rohan Verma",
+        "preapproved_limit": 350000,
+        "salary": 90000,
+        "credit_score": 780
+    },
+    "ACC1003": {
+        "name": "Neha Gupta",
+        "preapproved_limit": 500000,
+        "salary": 120000,
+        "credit_score": 810
+    },
+    "ACC1004": {
+        "name": "Arjun Patel",
+        "preapproved_limit": 150000,
+        "salary": 45000,
+        "credit_score": 680
+    },
+    "ACC1005": {
+        "name": "Simran Kaur",
+        "preapproved_limit": 250000,
+        "salary": 65000,
+        "credit_score": 720
+    },
+    "ACC1006": {
+        "name": "Manish Yadav",
+        "preapproved_limit": 180000,
+        "salary": 55000,
+        "credit_score": 705
+    },
+    "ACC1007": {
+        "name": "Priya Desai",
+        "preapproved_limit": 300000,
+        "salary": 80000,
+        "credit_score": 760
+    },
+    "ACC1008": {
+        "name": "Vikas Rao",
+        "preapproved_limit": 400000,
+        "salary": 110000,
+        "credit_score": 815
+    },
+    "ACC1009": {
+        "name": "Shreya Nair",
+        "preapproved_limit": 220000,
+        "salary": 60000,
+        "credit_score": 740
+    },
+    "ACC1010": {
+        "name": "Rahul Singh",
+        "preapproved_limit": 275000,
+        "salary": 70000,
+        "credit_score": 735
+    },
+    "ACC1011": {
+        "name": "Karan Bhandari",
+        "preapproved_limit": 125000,
+        "salary": 40000,
+        "credit_score": 710
+    },
+    "ACC1012": {
+        "name": "Ishita Roy",
+        "preapproved_limit": 325000,
+        "salary": 85000,
+        "credit_score": 785
+    },
+    "ACC1013": {
+        "name": "Ankit Mehra",
+        "preapproved_limit": 150000,
+        "salary": 45000,
+        "credit_score": 690
+    },
+    "ACC1014": {
+        "name": "Ritika Kapoor",
+        "preapproved_limit": 280000,
+        "salary": 75000,
+        "credit_score": 760
+    },
+    "ACC1015": {
+        "name": "Harsh Vardhan",
+        "preapproved_limit": 500000,
+        "salary": 125000,
+        "credit_score": 820
+    },
+    "ACC1016": {
+        "name": "Tanvi Kulkarni",
+        "preapproved_limit": 175000,
+        "salary": 52000,
+        "credit_score": 700
+    },
+    "ACC1017": {
+        "name": "Ayaan Sheikh",
+        "preapproved_limit": 310000,
+        "salary": 82000,
+        "credit_score": 775
+    },
+    "ACC1018": {
+        "name": "Mira Das",
+        "preapproved_limit": 420000,
+        "salary": 115000,
+        "credit_score": 825
+    },
+    "ACC1019": {
+        "name": "Sahil Arora",
+        "preapproved_limit": 190000,
+        "salary": 58000,
+        "credit_score": 710
+    },
+    "ACC1020": {
+        "name": "Aditi Chauhan",
+        "preapproved_limit": 230000,
+        "salary": 62000,
+        "credit_score": 745
+    },
+    "ACC1021": {
+        "name": "Nikhil Menon",
+        "preapproved_limit": 260000,
+        "salary": 70000,
+        "credit_score": 755
+    },
+    "ACC1022": {
+        "name": "Pooja Sinha",
+        "preapproved_limit": 340000,
+        "salary": 90000,
+        "credit_score": 795
+    },
+    "ACC1023": {
+        "name": "Dev Khanna",
+        "preapproved_limit": 370000,
+        "salary": 95000,
+        "credit_score": 790
+    },
+    "ACC1024": {
+        "name": "Sneha Joshi",
+        "preapproved_limit": 200000,
+        "salary": 60000,
+        "credit_score": 725
+    },
+    "ACC1025": {
+        "name": "Raghav Tandon",
+        "preapproved_limit": 4500000,
+        "salary": 1300000,
+        "credit_score": 830
+    }
+}
