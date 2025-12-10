@@ -5,6 +5,7 @@ It includes a web UI (Streamlit) and console interface, backed by a modular core
 
 
 🔧 Features
+
 ✔ Automated loan eligibility check
 ✔ Accurate EMI calculation
 ✔ Instant PDF sanction letter generation (FPDF)
@@ -14,6 +15,7 @@ It includes a web UI (Streamlit) and console interface, backed by a modular core
 
 
 📁 Project Structure
+
 ├── finbot_core.py          # Main loan processing engine
 ├── finbot_console.py       # Console interface (terminal-based)
 ├── finbot_streamlit.py     # Streamlit web UI
@@ -23,6 +25,7 @@ It includes a web UI (Streamlit) and console interface, backed by a modular core
 
 
 ⚙️ How It Works
+
 User enters loan details (via Web UI or Console)
 System fetches/reads required data (mock or uploaded)
 Eligibility rules are applied
@@ -32,6 +35,7 @@ A beautifully formatted PDF sanction letter is generated
 
 
 ▶️ Run the Project
+
 1️⃣ Run Streamlit Web App
 streamlit run finbot_streamlit.py
 2️⃣ Run Console Version
@@ -39,6 +43,7 @@ python finbot_console.py
 
 
 📊 Analytics Demo
+
 A dummy dataset (sample_db.json) is included for:
 Loan tenure distribution
 Credit score ranges
@@ -47,6 +52,7 @@ You can plug this into any ML/analytics pipeline later.
 
 
 🛠 Technologies Used
+
 Python
 Streamlit
 Pandas / NumPy
@@ -55,6 +61,7 @@ JSON
 
 
 🚀 Future Enhancements
+
 API-based real-time KYC and income verification
 Conversation-style chatbot UI
 Advanced risk scoring engine
